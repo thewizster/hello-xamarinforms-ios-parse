@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "HelloParse", "HelloParse\HelloParse.shproj", "{787EA78B-A9C7-4AD1-8110-8483B94CFFDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloParse.iOS", "iOS\HelloParse.iOS.csproj", "{2CE229D8-12E1-4313-A00F-2A94F835727C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CE229D8-12E1-4313-A00F-2A94F835727C}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{2CE229D8-12E1-4313-A00F-2A94F835727C}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{2CE229D8-12E1-4313-A00F-2A94F835727C}.Release|iPhone.ActiveCfg = Release|iPhone
+		{2CE229D8-12E1-4313-A00F-2A94F835727C}.Release|iPhone.Build.0 = Release|iPhone
+		{2CE229D8-12E1-4313-A00F-2A94F835727C}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{2CE229D8-12E1-4313-A00F-2A94F835727C}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{2CE229D8-12E1-4313-A00F-2A94F835727C}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{2CE229D8-12E1-4313-A00F-2A94F835727C}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
